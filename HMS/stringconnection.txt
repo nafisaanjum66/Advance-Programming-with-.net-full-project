@@ -1,0 +1,1 @@
+metadata=res://*/Models.HMS.csdl|res://*/Models.HMS.ssdl|res://*/Models.HMS.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=.;initial catalog=HMS;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;
